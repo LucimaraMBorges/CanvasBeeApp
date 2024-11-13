@@ -1,2 +1,2 @@
-# CanvasBeeApp
-BeeApp - Senac Londrina Norte
+# CanvasGit
+Projeto Canvas-Senac
